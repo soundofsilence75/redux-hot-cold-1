@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`reducer makeGuess Should make a new guess 1`] = `
+Object {
+  "guesses": Array [
+    42,
+    42,
+  ],
+}
+`;
